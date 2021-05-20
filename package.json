@@ -1,0 +1,23 @@
+{
+  "name": "mqtt_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjaroot/node.js_mqtt_mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjaroot/node.js_mqtt_mongodb/issues"
+  },
+  "homepage": "https://github.com/ninjaroot/node.js_mqtt_mongodb#readme",
+  "dependencies": {
+    "mongodb": "^3.6.7",
+    "mqtt": "^4.2.6"
+  }
+}
